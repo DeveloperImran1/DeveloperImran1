@@ -84,4 +84,4 @@ I am constantly learning and staying up-to-date with the latest trends and techn
 
 <br />
 <h1 align="center" >Thanks</h1>
-![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
+<img height="600" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg" />
