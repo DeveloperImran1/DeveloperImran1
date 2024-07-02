@@ -58,6 +58,9 @@ I am constantly learning and staying up-to-date with the latest trends and techn
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=DeveloperImran1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
    <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperImran1&theme=tokyonight&hide_border=true" />
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperImran1&layout=compact&text_color=daf7dc&bg_color=151515&hide=php)](https://touristbook.netlify.app/)
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
@@ -80,3 +83,5 @@ I am constantly learning and staying up-to-date with the latest trends and techn
 
 
 <br />
+<h1 align="center" >Thanks</h1>
+![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
