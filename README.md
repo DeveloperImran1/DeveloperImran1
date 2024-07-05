@@ -50,6 +50,24 @@ I am constantly learning and staying up-to-date with the latest trends and techn
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
+## 🌟 Featured Projects
+
+- **[TouristBook](https://touristbook.netlify.app/)**: 
+  TouristBook is a comprehensive tourism platform offering secure user authentication, detailed spot listings, and seamless booking experiences with community engagement features.
+  - Easy and safe tour booking options.
+  - Users can share posts, stories, and engage with others.
+  - Share experiences to help others make informed decisions.
+    
+- **[RoomIntel](https://room-intel.netlify.app/)**: 
+ A comprehensive hotel booking website featuring room selection, price filtering, secure user authentication, and interactive elements.
+  - Add Booking Functionality: Book rooms if available and view bookings in All About Information.
+
+- **[TravelsBook](https://assignment-10-10bbc.web.app/)**: 
+ A dynamic tourism website with multiple routes, user authentication, and interactive features for exploring tourist spots.
+  - Users can add, update, and delete destinations according to their preferences.
+
+
+
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
