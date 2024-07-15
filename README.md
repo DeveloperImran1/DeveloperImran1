@@ -72,7 +72,9 @@ I am constantly learning and staying up-to-date with the latest trends and techn
    <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperImran1&theme=tokyonight&hide_border=true" />
 </div>
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperImran1&layout=compact&text_color=daf7dc&bg_color=151515&hide=php)](https://touristbook.netlify.app/)
+</div>
 
 <!--START_SECTION:waka-->
 
@@ -96,7 +98,7 @@ I am constantly learning and staying up-to-date with the latest trends and techn
 
 
 ---
-## :📬: Reach me out
+## 📬: Reach me out
 <p>
   <a href="https://www.linkedin.com/in/developerimran1122/"><img src="https://i.ibb.co/NWmrGWt/Linkedin.png" height=35></a>
   <a href="https://www.facebook.com/DeveloperImran1"><img src="https://i.ibb.co/nM9rw0X/Facebook.png" height=35></a>
