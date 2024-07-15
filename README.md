@@ -3,7 +3,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png" />
 </a>
 
-<p><a href="https://x.com/imran9066588"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/developerimran1122/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.facebook.com/DeveloperImran1"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://github.com/DeveloperImran1"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+
 <br />
 
 
@@ -31,26 +31,19 @@ I am constantly learning and staying up-to-date with the latest trends and techn
 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+<img src="https://i.ibb.co/V0GjyyC/HTML.png"/>
+<img src="https://i.ibb.co/DGVqBMX/css.png"/>
+<img src="https://i.ibb.co/8YV18yb/tailwind.png"/>
+<img src="https://i.ibb.co/HN3tWC3/Java-Script-1.png"/>
+<img src="https://i.ibb.co/0fQrqtp/firebase.png"/>
+<img src="https://i.ibb.co/F097gKs/react.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="https://i.ibb.co/5hW9nDz/mongo.png"/>
+<img src="https://i.ibb.co/VH4M6nq/node.png"/>
+<img src="https://i.ibb.co/BwkH27v/express.png"/>
 </p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/>
+<br/>
 
 ## 🌟 Featured Projects
 
@@ -102,4 +95,12 @@ I am constantly learning and staying up-to-date with the latest trends and techn
 ### ⚡ My Dream - One day, my team and I will create the best and most popular website.
 
 
+
+## 📬: Reach me out
+<p>
+  <a href="https://www.linkedin.com/in/developerimran1122/"><img src="https://i.ibb.co/NWmrGWt/Linkedin.png" height=25></a>
+  <a href="https://www.facebook.com/DeveloperImran1"><img src="https://i.ibb.co/nM9rw0X/Facebook.png" height=25></a>
+  <a href="https://x.com/imran9066588"><img src="https://i.ibb.co/gJt1Vyv/Twitter.png" height=25></a></p>
+
 <br />
+<p><b>Email: </b> <a href="developerimran1122@gmail.com">developerimran1122@gmail.com</a></p>
