@@ -73,7 +73,12 @@ I am constantly learning and staying up-to-date with the latest trends and techn
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperImran1&layout=compact&text_color=daf7dc&bg_color=151515&hide=php)](https://touristbook.netlify.app/)
+
+<div align="center">
+  <a href="https://touristbook.netlify.app/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperImran1&layout=compact&text_color=daf7dc&bg_color=151515&hide=php" alt="Top Langs">
+  </a>
+</div>
 
 
 <!--START_SECTION:waka-->
