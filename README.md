@@ -94,9 +94,9 @@ I am constantly learning and staying up-to-date with the latest trends and techn
 ### 🤔 I’m trying - More user friendly and eye catching. 
 ### ⚡ My Dream - One day, my team and I will create the best and most popular website.
 
-<br />
+
 ---
-## 📬: Reach me out
+## :📬: Reach me out
 <p>
   <a href="https://www.linkedin.com/in/developerimran1122/"><img src="https://i.ibb.co/NWmrGWt/Linkedin.png" height=35></a>
   <a href="https://www.facebook.com/DeveloperImran1"><img src="https://i.ibb.co/nM9rw0X/Facebook.png" height=35></a>
