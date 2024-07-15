@@ -104,3 +104,4 @@ I am constantly learning and staying up-to-date with the latest trends and techn
 
 <br />
 <p><b>Email: </b> <a href="developerimran1122@gmail.com">developerimran1122@gmail.com</a></p>
+📧 <b>Email: </b> [developerimran1122@gmail.com](mailto:developerimran1122@gmail.com)
