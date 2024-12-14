@@ -47,6 +47,20 @@ I am constantly learning and staying up-to-date with the latest trends and techn
 
 ## 🌟 Featured Projects
 
+- **[Book Vila](https://book-vila-client.vercel.app/)**: 
+ Book Vila is an online book-selling platform that allows users to browse, purchase, and review books effortlessly. It offers a seamless shopping experience with advanced filters, real-time stock updates, and secure payment options.
+  - **Book Categories and Search Filters:** Easily browse books by genre, author, or price range.
+  - **User and Admin Dashboards:** Track purchases, manage profiles, and oversee book listings.
+  - **Reviews and Ratings:** Users can share feedback and rate books to guide others.
+
+
+- **[EventSphare](https://event-sphere-bice.vercel.app/)**: 
+EventSphere is a smart event management and booking platform designed for concerts, conferences, sports, and more. It features real-time availability, dynamic pricing, and role-based access for admins, organizers, and users.
+  - **Role-Based Access Control:** Separate dashboards for admins, organizers, and users for efficient management.
+  - **Dynamic Event Features:** Real-time ticket availability, interactive seat selection, and QR code tickets.
+  - **Secure Payment and Multi-Language Support:** Offers a user-friendly checkout process and support for multiple languages.
+ 
+    
 - **[TouristBook](https://touristbook.netlify.app/)**: 
   TouristBook is a comprehensive tourism platform offering secure user authentication, detailed spot listings, and seamless booking experiences with community engagement features.
   - Easy and safe tour booking options.
@@ -57,9 +71,6 @@ I am constantly learning and staying up-to-date with the latest trends and techn
  A comprehensive hotel booking website featuring room selection, price filtering, secure user authentication, and interactive elements.
   - Add Booking Functionality: Book rooms if available and view bookings in All About Information.
 
-- **[TravelsBook](https://assignment-10-10bbc.web.app/)**: 
- A dynamic tourism website with multiple routes, user authentication, and interactive features for exploring tourist spots.
-  - Users can add, update, and delete destinations according to their preferences.
 
 
 
