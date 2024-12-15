@@ -20,7 +20,7 @@ I specialize in creating dynamic, responsive, and user-friendly web applications
 <br/>
 Enhancing my skills in React.js and Next.js to build seamless and performant web applications.
 Exploring serverless architecture with Firebase.
-Diving deeper into backend development with Node.js and MongoDB.
+Diving deeper into backend development with Node.js and MongoDB. <br/>
 🌱 Always Learning:
 I am constantly learning and staying up-to-date with the latest trends and technologies in web development. Currently, I’m expanding my knowledge in cloud services and serverless functions.
 </p>
